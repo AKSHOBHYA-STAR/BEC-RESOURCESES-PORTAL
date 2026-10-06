@@ -1,0 +1,8 @@
+{
+  "name": "BEC Academic Resource & Knowledge Sharing Portal",
+  "description": "Centralized student resource sharing platform and official syllabus repository for Basaveshwara Engineering College (BEC Bagalkot). Access student-contributed notes, lab manuals, assignments, and verified official BEC autonomous syllabus documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
